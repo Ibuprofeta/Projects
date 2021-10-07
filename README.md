@@ -1,38 +1,38 @@
-# Proyectos Universidad
+# University Projects
 
-Estos son algunos de los prototipos y proyectos hechos durante las diferentes asignaturas en la universidad, como también proyectos paralelos hechos para testear y como práctica de algunos de los softwares usados durante el grado. 
+These are some of the prototypes and projects made during the different subjects at the university, as well as parallel projects made for testing and as practice of some of the software used during the degree. 
 
 
-# 1. Restaurante Terapia Ocupacional
+# 1. Occupational Therapy Restaurant
 
-## Descripción
+## Description
 
-Minijuego de cocina producido para un equipo de trabajo del grado de terapia ocupacional de la universidad de Vic. El equipo de terapia ofreció la idea i el tema que querian para un juego enfocado para personas que sufren TDAH, que desarrollamos durante una de las assignaturas del grado.
-El minijuego se basa en llevar la cocina de un restaurante, cocinando y construyendo las diferentes recetas con los alimentos i el orden con el que se piden, con el objectivo de desafiar i mejorar diversos aspectos de la atención del jugador.
-El diseño i el arte de los assets los llevó una compañera del equipo del proyecto, el resto del minijuego lo desarrollé individualmente.
-Hecho en *Unity*.
+Cooking mini-game produced for a occupational therapy degree team of the University of Vic. The therapy team offered the idea and the theme they wanted for a game focused on people suffering from ADHD, which we developed during one of the subjects of the degree.
+The mini-game is based on running the kitchen of a restaurant, cooking and building the different recipes with the food and the order in which they are ordered, with the aim of challenging and improving various aspects of the player's attention.
+The design and artwork of the assets was done by a teammate of the project team, the rest of the minigame was developed individually.
+Made on *Unity*.
 
 https://user-images.githubusercontent.com/48218009/121790221-710fbd80-cbdd-11eb-9c1e-11858d5317d0.mp4
  
 
 # 2. Memory World of Warcraft
 
-## Descripción
+## Description
 
-Aplicación o juegoproducida para un proyecto de una assignatura de 3ro. 
-El juego se basa en el clásico Memory, juego de memoria donde dos jugadores tienen que descubrir parejas de elementos iguales, que permanecen ocultos. En cada tirada, se destapan dos piezas que se veulven a esconder si no hacen par. El objetivo del juego es destapar más parejas que el rival. También contiene un modo de un solo jugador el cual compite contra una IA muy bàsica.
-El tema del juego es del famoso MMO-RPG World of Warcraft.
-Hecho para *iOS (Swift, Xcode)*.
+Mobile application produced for a 3rd grade project. 
+The game is based on the classic Memory, a memory game where two players have to discover pairs of identical elements, which remain hidden. In each turn, two pieces are uncovered, hidden later if they do not make a pair. The objective of the game is to uncover more pairs than the opponent. It also contains a single player mode which competes against a very basic AI.
+The theme of the game is from the famous MMO-RPG World of Warcraft.
+Made on *iOS (Swift, Xcode)*.
 
 https://user-images.githubusercontent.com/48218009/121790219-6b19dc80-cbdd-11eb-9e7a-b80760abc588.mp4
 
 
 # 3. Web Café Vernet
 
-## Descripción
+## Description
 
-Sitio web realizado durante una assignatura de 3ro para trabajar el CEO. 
-El sitio web fue realizado para un negocio local en un pueblo de Girona. Se ha hecho usando el portal de *wordpress.org* juntamente con la plantilla Pinnacle. Durante el proyecto se trabajó enfatizando en el CEO buscando una imagen clara y actualizada, con una estructura adequada para la legibilidad y pensando en un contenido que ayude al posicionamiento natural del web.
+Website made during a 3rd year course to work on CEO. 
+The website was made for a local business in a village in Tarragona. It was made using the *wordpress.org* portal along with the Pinnacle template. During the project we worked emphasizing on the CEO looking for a clear and updated appareance, with a suitable structure for readability and thinking in a content that helps the natural positioning of the website.
 
 
 ![image](https://user-images.githubusercontent.com/48218009/121790366-019acd80-cbdf-11eb-8a8a-9466845bb1d5.png)
@@ -49,10 +49,10 @@ El sitio web fue realizado para un negocio local en un pueblo de Girona. Se ha h
 
 # 4. DBD Slot Machine
 
-## Descripción
+## Description
 
-Minijuego de Slot Machine para un streamer.
-Es un minijuego que contiene todos los personajes y las habilidades del juego DBD y las randomiza. El minijuego te permite seleccionar los distintos personajes y habilidades dependiendo si los tienes o no disponibles en el juego. Este proyecto me lo ha pedido un streamer que queria una pequeña aplicacion para poder randomizar las habilidades que tenia que usar en cada partida para hacer mas interesante su contenido. Actualmente se está trabajando en terminar de pulir visualmente la applicación. Hecho en *Unity*. 
+Slot Machine mini-game for a streamer.
+It is a minigame that contains all the characters and skills of the DBD game and randomizes them. The minigame allows you to select the different characters and skills depending on whether or not you have them available in the game. This project was requested by a streamer who wanted a small application to randomize the skills he had to use in each game to make his content more interesting. We are currently working on finishing the visual polishing of the application. Made on *Unity*. 
 
 
 https://user-images.githubusercontent.com/48218009/121803297-17d97580-cc41-11eb-8e5c-d91d63f516d5.mp4
@@ -61,29 +61,31 @@ https://user-images.githubusercontent.com/48218009/121803297-17d97580-cc41-11eb-
 
 
 
-# 5. Escena Asiática 3D
+# 5. 3D Asian Scene
 
-## Descripción
+## Description
 
-Escena 3D con animaciones para proyecto de universidad en 2do curso.
-Se diseñó y creó un entorno en 3D (se ha utilizado Blender) con sus animaciones. Por supuesto, también se diseñó, modeló y animó cada uno de los componentes añadidos en la escena. En mi caso, me inspiré en la temàtica asiàtica con elementos como los árboles típicos japoneses o las barcas de origen chino.
+3D scene with animations for a 2nd year university project.
+A 3D environment was designed and created  with its animations. Of course, each of the components added in the scene was also designed, modeled and animated. In my case, I was inspired by the Asian theme with elements such as the typical Japanese trees or the boats of Chinese origin.
+Made on *Blender*.
 
-Render de la Imagen:
+Render Image:
 
 ![AsianScene_ImageRender](https://user-images.githubusercontent.com/48218009/136337831-02616676-f243-463c-8d50-24b7aaa0a28c.jpg)
 
-Render del Video:
+Video Render:
 
 https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-bc89-36d80403b0b8.mp4
 
 
 
-# 6. Modelado 3D - Doctor de la Peste
+# 6. 3D Modeling - Plague Doctor
 
-## Descripción
+## Description
 
-Modelado 3D de un personaje para proyecto de universidad en 2do curso.
-Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVII. También se diseñaron y modelaron los distintos objectos usados en la escena.
+3D modeling of a character for a 2nd year university project.
+I designed and created a character inspired by a 17th century plague doctor. The different objects used in the scene were also designed and modeled.
+Made on *Blender*.
 
 ![Image_render](https://user-images.githubusercontent.com/48218009/136349706-1cd7d713-15a1-44cf-8a86-389768865b01.jpg)
 ![censer_render](https://user-images.githubusercontent.com/48218009/136349705-8fc456c5-d300-4f5a-9448-654da83725af.jpg)
@@ -93,19 +95,22 @@ Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVI
 
 # 7. One Piece Web
 
-## Descripción
+## Description
+
+HTML web page with interaction for a 3rd year university project.
+
 
 Página web HTML con interacción para proyecto de universidad en 3r curso.
-Sé diseñó y creo una página web con una mapa del famoso anime One Piece en el que el usuario puede explorar las diferentes islas que aparecen en la trama para conocer brevemente su historia y los personajes más importantes pertenecientes a ese arco.
+We designed and created a web page with a map of the famous anime One Piece in which the user can explore the different islands that appear in the plot, to briefly know their history and the most important characters belonging to that story arc.
 
-Imagen Mapa Principal:
+Main Map Image:
 
 ![Main_map](https://user-images.githubusercontent.com/48218009/136342051-d90f7de2-f1d9-46be-91a8-daeed19c5e07.PNG)
 
-Imagen Entrada Mapa:
+Map Entry Image:
 
 ![map_entry](https://user-images.githubusercontent.com/48218009/136342081-48e2e397-331e-4a3c-8963-800a1b6e6f6d.PNG)
 
-Imagen Personajes:
+Characters Image:
 
 ![map_characters](https://user-images.githubusercontent.com/48218009/136342097-fd7fc03b-a03c-46d6-bc8b-ed2eea95037d.PNG)
