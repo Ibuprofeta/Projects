@@ -3,7 +3,7 @@
 Estos son algunos de los prototipos y proyectos hechos durante las diferentes asignaturas en la universidad, como también proyectos paralelos hechos para testear y como práctica de algunos de los softwares usados durante el grado. 
 
 
-# Restaurante Terapia Ocupacional
+# 1. Restaurante Terapia Ocupacional
 
 ## Descripción
 
@@ -13,9 +13,9 @@ El diseño i el arte de los assets los llevó una compañera del equipo del proy
 Hecho en *Unity*.
 
 https://user-images.githubusercontent.com/48218009/121790221-710fbd80-cbdd-11eb-9c1e-11858d5317d0.mp4
+ 
 
-
-# Memory World of Warcraft
+# 2. Memory World of Warcraft
 
 ## Descripción
 
@@ -27,7 +27,7 @@ Hecho para *iOS (Swift, Xcode)*.
 https://user-images.githubusercontent.com/48218009/121790219-6b19dc80-cbdd-11eb-9e7a-b80760abc588.mp4
 
 
-# Web Café Vernet
+# 3. Web Café Vernet
 
 ## Descripción
 
@@ -44,7 +44,10 @@ El sitio web fue realizado para un negocio local en un pueblo de Girona. Se ha h
 ![image](https://user-images.githubusercontent.com/48218009/121790373-11b2ad00-cbdf-11eb-8898-e912bd09c7ac.png)
 
 
-# DBD Slot Machine
+
+
+
+# 4. DBD Slot Machine
 
 ## Descripción
 
@@ -55,51 +58,54 @@ Es un minijuego que contiene todos los personajes y las habilidades del juego DB
 https://user-images.githubusercontent.com/48218009/121803297-17d97580-cc41-11eb-8e5c-d91d63f516d5.mp4
 
 
-# 2D Submarines
+
+
+
+# 5. Escena Asiática 3D
 
 ## Descripción
 
-Juego de scroll lateral hecho durante el 1r año del grado.
-El juego se basa en controllar un submarino y evitar ser golpeado. Tambien se puede disparar para eliminar a los enemigos. La temática se basa en Submarine Titans, un RTS subaquático del año 2000. 
-Hecho en *Unity*.
- 
-https://user-images.githubusercontent.com/48218009/121790208-53daef00-cbdd-11eb-919f-c9b03623a852.mp4
+Escena 3D con animaciones para proyecto de universidad en 2do curso.
+Se diseñó y creó un entorno en 3D (se ha utilizado Blender) con sus animaciones. Por supuesto, también se diseñó, modeló y animó cada uno de los componentes añadidos en la escena. En mi caso, me inspiré en la temàtica asiàtica con elementos como los árboles típicos japoneses o las barcas de origen chino.
+
+Render de la Imagen:
+
+![AsianScene_ImageRender](https://user-images.githubusercontent.com/48218009/136337831-02616676-f243-463c-8d50-24b7aaa0a28c.jpg)
+
+Render del Video:
+
+https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-bc89-36d80403b0b8.mp4
 
 
-# Frogger Coronavirus
 
-## Descripción
-Juego Single Screen hecho durante el 2n año del grado.
-El juego se basa en el clásico Frogger, donde el objetivo es dirigir las ranas a sus hogares, una por una, cruzando una calle concurrida y navegando por un río lleno de obstaculos.
-Este juego fue realizado los primeros meses de la pandemia y es por esto que la tematica esta inspirada en ello.
-Hecho en *p5js* y subido a un servidor web.
-
-https://user-images.githubusercontent.com/48218009/121790220-6d7c3680-cbdd-11eb-8b18-3baff527032b.mp4
-
-
-# 3D TempleRun
+# 6. Modelado 3D - Doctor de la Peste
 
 ## Descripción
 
-Prototipo de juego de scroll hecho durante el 1r año del grado
-El juego se basa en el famoso Temple Run para móbil, donde el objetivo es llegar lo mas lejos posible recogiendo monedas y power ups para conseguir mas puntuación.
-Hecho en *Unity*.
+Modelado 3D de un personaje para proyecto de universidad en 2do curso.
+Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVII. También se diseñaron y modelaron los distintos objectos usados en la escena.
 
-https://user-images.githubusercontent.com/48218009/121790224-766d0800-cbdd-11eb-9613-11bbad2e7327.mp4
+![Image_render](https://user-images.githubusercontent.com/48218009/136349706-1cd7d713-15a1-44cf-8a86-389768865b01.jpg)
+![censer_render](https://user-images.githubusercontent.com/48218009/136349705-8fc456c5-d300-4f5a-9448-654da83725af.jpg)
+![jewel_render](https://user-images.githubusercontent.com/48218009/136349707-0774ec14-4c80-4b6c-bbff-d71c45df6b92.jpg)
+![wings_render](https://user-images.githubusercontent.com/48218009/136349708-5443ca78-4240-42cb-9b93-87e1ea49953c.jpg)
 
 
-
-# 2D Platform
+# 7. One Piece Web
 
 ## Descripción
 
-Prototipo de juego de plataformas 2D hecho durante el 1r año del grado.
-Típico juego de plataformas con mecánica de disparo. Los assets fueron descargados de la libreria pública de Unity.
-Hecho en *Unity*.
+Página web HTML con interacción para proyecto de universidad en 3r curso.
+Sé diseñó y creo una página web con una mapa del famoso anime One Piece en el que el usuario puede explorar las diferentes islas que aparecen en la trama para conocer brevemente su historia y los personajes más importantes pertenecientes a ese arco.
 
-https://user-images.githubusercontent.com/48218009/121790313-6a357a80-cbde-11eb-95a5-e7c1cd3eba7b.mp4
+Imagen Mapa Principal:
 
+![Main_map](https://user-images.githubusercontent.com/48218009/136342051-d90f7de2-f1d9-46be-91a8-daeed19c5e07.PNG)
 
+Imagen Entrada Mapa:
 
+![map_entry](https://user-images.githubusercontent.com/48218009/136342081-48e2e397-331e-4a3c-8963-800a1b6e6f6d.PNG)
 
+Imagen Personajes:
 
+![map_characters](https://user-images.githubusercontent.com/48218009/136342097-fd7fc03b-a03c-46d6-bc8b-ed2eea95037d.PNG)
