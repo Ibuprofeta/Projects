@@ -80,42 +80,8 @@ https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-
 
 
 
-# 6. 3D Modeling - Plague Doctor
 
-## Description
-
-3D modeling of a character for a 2nd year university project.
-I designed and created a character inspired by a 17th century plague doctor. The different objects used in the scene were also designed and modeled.
-
-*Blender*.
-
-![Image_render](https://user-images.githubusercontent.com/48218009/136349706-1cd7d713-15a1-44cf-8a86-389768865b01.jpg)
-![censer_render](https://user-images.githubusercontent.com/48218009/136349705-8fc456c5-d300-4f5a-9448-654da83725af.jpg)
-![jewel_render](https://user-images.githubusercontent.com/48218009/136349707-0774ec14-4c80-4b6c-bbff-d71c45df6b92.jpg)
-![wings_render](https://user-images.githubusercontent.com/48218009/136349708-5443ca78-4240-42cb-9b93-87e1ea49953c.jpg)
-
-
-# 7. One Piece Web
-
-## Description
-
-HTML web page with interaction for a 3rd year university project.
-We designed and created a web page with a map of the famous anime One Piece in which the user can explore the different islands that appear in the plot, to briefly know their history and the most important characters belonging to that story arc.
-
-Main Map:
-
-![Main_map](https://user-images.githubusercontent.com/48218009/136342051-d90f7de2-f1d9-46be-91a8-daeed19c5e07.PNG)
-
-Map Entry:
-
-![map_entry](https://user-images.githubusercontent.com/48218009/136342081-48e2e397-331e-4a3c-8963-800a1b6e6f6d.PNG)
-
-Character Entry:
-
-![map_characters](https://user-images.githubusercontent.com/48218009/136342097-fd7fc03b-a03c-46d6-bc8b-ed2eea95037d.PNG)
-
-
-# 8. Elven Ruins
+# 6. Elven Ruins
 
 ## Description
 
@@ -162,3 +128,43 @@ Laberynth Scene:
 ![Lab_2](https://user-images.githubusercontent.com/48218009/150504180-a759830c-77c4-4907-b519-a5dd2c868790.png)
 
 ![Lab_3](https://user-images.githubusercontent.com/48218009/150504184-a4a30f4f-8059-44ef-83c3-536b89f1b514.png)
+
+
+
+
+# 7. 3D Modeling - Plague Doctor
+
+## Description
+
+3D modeling of a character for a 2nd year university project.
+I designed and created a character inspired by a 17th century plague doctor. The different objects used in the scene were also designed and modeled.
+
+*Blender*.
+
+![Image_render](https://user-images.githubusercontent.com/48218009/136349706-1cd7d713-15a1-44cf-8a86-389768865b01.jpg)
+![censer_render](https://user-images.githubusercontent.com/48218009/136349705-8fc456c5-d300-4f5a-9448-654da83725af.jpg)
+![jewel_render](https://user-images.githubusercontent.com/48218009/136349707-0774ec14-4c80-4b6c-bbff-d71c45df6b92.jpg)
+![wings_render](https://user-images.githubusercontent.com/48218009/136349708-5443ca78-4240-42cb-9b93-87e1ea49953c.jpg)
+
+
+# 8. One Piece Web
+
+## Description
+
+HTML web page with interaction for a 3rd year university project.
+We designed and created a web page with a map of the famous anime One Piece in which the user can explore the different islands that appear in the plot, to briefly know their history and the most important characters belonging to that story arc.
+
+Main Map:
+
+![Main_map](https://user-images.githubusercontent.com/48218009/136342051-d90f7de2-f1d9-46be-91a8-daeed19c5e07.PNG)
+
+Map Entry:
+
+![map_entry](https://user-images.githubusercontent.com/48218009/136342081-48e2e397-331e-4a3c-8963-800a1b6e6f6d.PNG)
+
+Character Entry:
+
+![map_characters](https://user-images.githubusercontent.com/48218009/136342097-fd7fc03b-a03c-46d6-bc8b-ed2eea95037d.PNG)
+
+
+
